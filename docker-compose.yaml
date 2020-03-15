@@ -17,7 +17,7 @@ services:
         image: grafana/grafana
         restart: always
         ports:
-            - 8001:3000
+            - 80:3000
         networks:
             - covid19
         environment:
