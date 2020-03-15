@@ -16,7 +16,7 @@ docker-compose up
 
 visit
 
-http://localhost:8001
+http://localhost
 
 # UI
 Below is the upper and lower part of the dashboard.
